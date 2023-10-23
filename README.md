@@ -29,14 +29,13 @@ The *Online Shopping Android App* is a comprehensive e-commerce application desi
 
 ## Screenshots
 
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/1.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/2.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/3.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/4.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/5.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/6.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/7.png">
-<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/8.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/a.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/b.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/c.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/d.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/e.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/o.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/p.png">
 
 ###### Swipe through the screenshots below to catch a glimpse of the app's user-friendly interface:
 
