@@ -57,7 +57,7 @@ If you'd like to contribute to the development of this project, please follow th
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). You can find more details in the [LICENSE.md](LICENSE.md) file.
+This project is licensed under the [MIT License](LICENSE). You can find more details in the [LICENSE.md](LICENSE.md) file.
 
 Your contributions and feedback are highly appreciated. Feel free to connect with me and join in this journey of learning and growth!
 
