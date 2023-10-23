@@ -23,6 +23,25 @@ The *Online Shopping Android App* is a comprehensive e-commerce application desi
 - Cart Management: Users can add items to the cart, review their selections, and place orders.
 - Cross-Device Compatibility: The app has been thoroughly tested on various devices and Android versions to ensure a seamless user experience.
 
+
+## Live Demo:
+- Application Install: [Downloade](OnlineShopping.apk)
+
+## Screenshots
+
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/1.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/2.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/3.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/4.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/5.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/6.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/7.png">
+<img align="right" alt="Coding" width="100" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/UnitConverter/8.png">
+
+###### Swipe through the screenshots below to catch a glimpse of the app's user-friendly interface:
+
+---
+
 ## Installation
 
 To run the *Online Shopping Android App* on your local machine, follow these steps:
