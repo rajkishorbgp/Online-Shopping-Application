@@ -1,6 +1,7 @@
 package com.rajkishorbgp.onlineshopping;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 import android.content.Context;
 import android.content.Intent;
@@ -31,7 +32,7 @@ public class RegistrationActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registration);
-
+        getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black));
         regName = findViewById(R.id.regName);
         regEmail = findViewById(R.id.regEmail);
         regPassword = findViewById(R.id.regPassword);

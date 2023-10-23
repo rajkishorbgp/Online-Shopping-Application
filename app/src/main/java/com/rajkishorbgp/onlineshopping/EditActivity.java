@@ -1,6 +1,7 @@
 package com.rajkishorbgp.onlineshopping;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
@@ -23,6 +24,7 @@ public class EditActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_edit);
+        getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black));
 
         nameEdit = findViewById(R.id.nameEdit);
         mobileEdit = findViewById(R.id.mobileEdit);

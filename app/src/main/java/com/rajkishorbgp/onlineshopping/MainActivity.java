@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.core.content.ContextCompat;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
@@ -40,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
         fragment = findViewById(R.id.fragment);
         drawerLayout = findViewById(R.id.drawerLayout);
         navigationView = findViewById(R.id.navigationView);
+
+        getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black));
         SharedPreferences sharedPreferences= getSharedPreferences("userDetails",0);
 
 

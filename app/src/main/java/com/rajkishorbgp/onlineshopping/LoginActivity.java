@@ -1,6 +1,7 @@
 package com.rajkishorbgp.onlineshopping;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -28,7 +29,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-
+        getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black));
         loginEmail = findViewById(R.id.loginEmail);
         loginPassword = findViewById(R.id.loginPassword);
         loginEmailLayout = findViewById(R.id.loginEmailLayout); // Initialize loginEmailLayout
