@@ -19,6 +19,7 @@ import com.rajkishorbgp.onlineshopping.DatabaseHelper;
 import com.rajkishorbgp.onlineshopping.HomeAdapter;
 import com.rajkishorbgp.onlineshopping.HomeDatabase;
 import com.rajkishorbgp.onlineshopping.ItemClass;
+import com.rajkishorbgp.onlineshopping.OrderActivity;
 import com.rajkishorbgp.onlineshopping.R;
 
 import java.util.ArrayList;
@@ -63,6 +64,7 @@ public class CartFragment extends Fragment {
                     ItemClass itemClass = cartArrayList.get(i);
                     homeDatabase.updateIsCart(itemClass.itemName,itemClass.isCart,R.color.cart_image_red);
                 }
+                startActivity(new Intent(requireContext(), OrderActivity.class));
                 Toast.makeText(getActivity().getApplicationContext(), "Your order has successfully placed",Toast.LENGTH_SHORT).show();
                 cartDatabase.clear();
                 getParentFragmentManager().beginTransaction().detach(CartFragment.this).commit();

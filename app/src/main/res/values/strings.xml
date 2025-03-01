@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Online Shopping</string>
+    <string name="app_name">JungleCart</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -36,4 +36,7 @@
     <string name="iphone_15">iphone 15</string>
     <string name="please_order">PLEASE ORDER</string>
     <string name="save">SAVE</string>
+    <string name="your_order_verification">Your Order Verification Process Please contacts</string>
+    <string name="mob_no_7544445555">Mob no: 7544445555</string>
+    <string name="email_anjaliyadav7524_gmail_com">Email: anjaliyadav7524@gmail.com</string>
 </resources>
