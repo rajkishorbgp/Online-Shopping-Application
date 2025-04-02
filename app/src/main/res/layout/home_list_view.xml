@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:id="@+id/itemImage"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:src="@drawable/iphone15"
+            android:layout_gravity="top"
+            android:contentDescription="@string/todo" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/itemName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/iphone_15"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:layout_marginEnd="10dp"
+                android:layout_alignStart="@id/itemPrise"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                />
+            <TextView
+                android:id="@+id/itemPrise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rs.1500"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_alignParentEnd="true"
+                />
+            <TextView
+                android:id="@+id/itemDec"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/experience_the_iphone_15"
+                android:layout_below="@id/itemName"
+                android:layout_alignEnd="@id/cartImage"
+                android:layout_marginEnd="100dp"
+                android:layout_alignParentStart="true"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                />
+            <ImageView
+                android:id="@+id/cartImage"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/baseline_shopping_cart_24"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@id/itemPrise"
+                android:contentDescription="@string/todo" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
