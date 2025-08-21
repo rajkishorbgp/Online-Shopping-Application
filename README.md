@@ -80,5 +80,3 @@ This project is licensed under the [MIT License](LICENSE). You can find more det
 Your contributions and feedback are highly appreciated. Feel free to connect with me and join in this journey of learning and growth!
 
 Thank you for visiting the *Online Shopping Android App* repository, and I look forward to your support and engagement.
-
---
