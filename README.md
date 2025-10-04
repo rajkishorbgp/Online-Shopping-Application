@@ -81,4 +81,3 @@ Your contributions and feedback are highly appreciated. Feel free to connect wit
 
 Thank you for visiting the *Online Shopping Android App* repository, and I look forward to your support and engagement.
 
---
